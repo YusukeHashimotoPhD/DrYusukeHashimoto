@@ -1,7 +1,7 @@
 ### Yusuke Hashimoto
 
 #### 🧪 Scientist
-- **PhD of science
+- **title**: PhD of science
 - **Field**: Solid State Physics
 - **Specializations**:
   - Ultrafast Time-Resolved Spectroscopy
