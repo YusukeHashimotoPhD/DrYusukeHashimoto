@@ -22,4 +22,4 @@
   - NHK, Japan
   - Radboud University, The Netherlands
 - **Project Assistant Professor**: Tohoku University, Japan
-- **Project Associate Professor & Data Manager**: Tohoku University, Japan
+- **Project Associate Professor/URA & Data Manager**: Tohoku University, Japan
