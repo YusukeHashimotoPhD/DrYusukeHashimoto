@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @DrYusukeHashimoto
-- 👀 I’m interested in material science.
-- 🌱 I’m currently learning material infomatics.
+### Yusuke Hashimoto
 
-<!---
-DrYusukeHashimoto/DrYusukeHashimoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🧪 Scientist
+- **Field**: Solid State Physics
+- **Specializations**:
+  - Ultrafast Time-Resolved Spectroscopy
+  - Spintronics
 
-||
-|test|
+#### 🎓 Education
+- **Bachelor's Degree**: Chiba University, Japan
+- **Master's Degree**: Tokyo Institute of Technology, Japan
+- **Doctorate**: Chiba University, Japan
+
+#### 💼 Professional Experience
+- **Postdoctoral Researcher**:
+  - Chiba University, Japan
+  - Tokyo Institute of Technology, Japan
+  - NHK, Japan
+  - Radboud University, The Netherlands
+- **Project Assistant Professor**: Tohoku University, Japan
+- **Project Associate Professor & Data Manager**: Tohoku University, Japan
+
+---
+
+この内容でよろしいでしょうか？
