@@ -10,6 +10,7 @@
 🔗 [Google Scholar](https://www.google.com/search?client=safari&rls=en&q=google+scholar+yusuke+hashimoto&ie=UTF-8&oe=UTF-8)
 🔗 [ResearchGate](https://www.researchgate.net/profile/Hashimoto-Yusuke)
 🔗 [LinkedIn](https://www.linkedin.com/in/yusuke-hashimoto-60ab6461/)
+🔗 [Researchmap](https://researchmap.jp/hassy1977)
 
 ---
 #### 🎓 Education
